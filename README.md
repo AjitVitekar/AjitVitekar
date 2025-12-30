@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajit Vitekar</h1>
 
 <h3 align="center">
-Data Analyst at Wipro Technologies | SQL | PL/SQL | Power BI | Data Analysis & Database Development
+Business Intelligence Developer at Wipro | Power BI | SQL | DAX | BI Reporting & Analytics
 </h3>
 
 <p align="center">
