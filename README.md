@@ -25,14 +25,19 @@ Business Intelligence Developer at Wipro | Power BI | SQL | DAX | BI Reporting &
 
 <p>
 
-I am a **Data Analyst at Wipro Technologies** with hands-on experience in converting complex datasets into
-**accurate, actionable business insights** that support data-driven decision-making.
+I am a Business Intelligence / Power BI Developer at Wipro Technologies with hands-on experience in transforming complex datasets into accurate, actionable business insights that support data-driven decision-making.
 
-- 🔍 Proficient in **SQL & PL/SQL** for data extraction, transformation, validation, and performance optimization  
-- 📊 Strong expertise in **Power BI**, including dashboard development, **DAX**, Power Query, and data visualization  
-- 📐 Experienced in **data modeling**, KPI definition, trend analysis, and reporting  
-- 🧠 Strong analytical thinking with a structured approach to problem-solving  
-- 📫 Reach me at **ajithvitekar@gmail.com**
+🔍 Proficient in SQL & PL/SQL for data extraction, transformation, validation, and query performance optimization
+
+📊 Strong expertise in Power BI, including dashboard development, DAX, Power Query, and effective data visualization
+
+📐 Experienced in data modeling, KPI definition, trend analysis, and business reporting
+
+⚙️ Skilled in ensuring data accuracy, consistency, and performance across BI reports and dashboards
+
+🧠 Strong analytical mindset with a structured approach to problem-solving
+
+📫 Reach me at ajithvitekar@gmail.com
 
 </ul>
 
