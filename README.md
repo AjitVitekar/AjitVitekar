@@ -45,7 +45,47 @@ I am a Business Intelligence / Power BI Developer at Wipro Technologies with han
 
 <h2>🚀 Featured Projects</h2>
 
-<h3>🍕 Pizza Sales Analysis Dashboard (SQL + Power BI)</h3>
+<hr/>
+
+<h3>🏦 Bank Loan Analysis Dashboard </h3>
+
+<p>
+Comprehensive <b>Bank Loan Analysis Dashboard</b> developed using <b>SQL Server and Power BI</b> to analyze loan portfolio performance, borrower behavior, repayment trends, and lending risk through KPI-driven reporting and interactive visualizations.
+</p>
+
+<p>
+  <a href="https://github.com/AjitVitekar/BANK_LOAN_ANALYSIS_SQL_POWERBI" target="_blank">
+    🔗 View Repository
+  </a>
+</p>
+
+<p>
+  <img
+    src="https://raw.githubusercontent.com/AjitVitekar/BANK_LOAN_ANALYSIS_SQL_POWERBI/main/summary.png"
+    width="560"
+    alt="Bank Loan Summary Dashboard"
+  />
+</p>
+
+<p>
+  <img
+    src="https://raw.githubusercontent.com/AjitVitekar/BANK_LOAN_ANALYSIS_SQL_POWERBI/main/overview.png"
+    width="560"
+    alt="Bank Loan Overview Dashboard"
+  />
+</p>
+
+<p>
+  <img
+    src="https://raw.githubusercontent.com/AjitVitekar/BANK_LOAN_ANALYSIS_SQL_POWERBI/main/details.png"
+    width="560"
+    alt="Bank Loan Details Dashboard"
+  />
+</p>
+
+<hr/>
+
+<h3>🍕 Pizza Sales Analysis Dashboard </h3>
 
 <p>
 End-to-end analytics project using <b>SQL and Power BI</b> focusing on KPIs, trends,
@@ -76,7 +116,7 @@ and best/worst performing products through an interactive dashboard.
 
 <hr/>
 
-<h3>📱 Mobile Sales Analytics Dashboard (Power BI)</h3>
+<h3>📱 Mobile Sales Analytics Dashboard </h3>
 
 <p>
 Interactive <b>Power BI dashboard</b> analyzing mobile sales across brands, cities,
